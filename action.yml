@@ -14,7 +14,7 @@ inputs:
       Caching is activated by default.
     required: false
   version:
-    default: "nightly"
+    default: "v1.0.10"
     description: |
       Foundry version.
 
