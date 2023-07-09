@@ -1,6 +1,6 @@
 {
-  "name": "@SygilGroup/foundry-toolchain",
-  "version": "1.0.8",
+  "name": "toasty-toaster-foundry",
+  "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/index.js",
   "keywords": [
